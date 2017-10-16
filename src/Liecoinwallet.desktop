@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Liecoin Wallet
+Comment=Liecoin wallet
+Exec=Liecoin %U
+Terminal=false
+Type=Application
+Icon=Liecoin
+MimeType=x-scheme-handler/Liecoin;
+Categories=Office;Finance;

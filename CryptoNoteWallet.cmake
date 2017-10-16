@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Liecoin")
+set(CN_CURRENCY_DISPLAY_NAME "liecoin")
+set(CN_CURRENCY_TICKER "LIE")
+set(CN_VERSION 1.2.0)
